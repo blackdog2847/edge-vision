@@ -1,6 +1,8 @@
 # edge-vision
 Agentic AI Home Care Safety Net: Combining Edge Vision (YOLO) and Cloud LLMs for real-time fall detection and smart daily activity summarization.
+
 🏠 Edge-Vision Agentic AI 防護網 (Home Care Safety Net)
+
 本專案為新一代居家照護防護系統，採用 Edge-Cloud 協同架構設計，旨在為獨居長者與行動不便者提供全天候的智能守護。
 
 ✨ 核心功能與特色：
